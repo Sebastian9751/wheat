@@ -1,0 +1,17 @@
+:root {
+  --color-background: #FBFBFB;
+  --color-primary: #FF8900;
+  --color-secondary: #607EE9;
+  --color-tertiary: #62A583;
+  --color-text: #7A7A7A;
+  --color-title: #232323;
+  --color-card-orange: #FF9922;
+  --color-card-purple: #8322FF;
+  --color-card-red: #FF2222;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
