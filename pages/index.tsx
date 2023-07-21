@@ -1,5 +1,5 @@
 import Layout from "@/components/general/layouts/Layout";
-import Card from "@/components/general/card/Card"
+import Card from "@/components/general/Card/"
 
 export default function Home() {
   return (

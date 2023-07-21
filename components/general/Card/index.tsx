@@ -1,4 +1,4 @@
-import styles from '@/styles/general/Card.module.css'
+import styles from './Card.module.css'
 import Image from 'next/image'
 import image from '@/public/images/restaurantOne.png'
 

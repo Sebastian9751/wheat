@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import logo from '@/public/images/logo.png'
 import { Poppins } from 'next/font/google'
-import style from '@/styles/general/layout.module.css'
+import style from '@/styles/general/Layout.module.css'
 
 
 const poppins = Poppins({
